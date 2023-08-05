@@ -102,7 +102,7 @@ def extract_code(gpt_response):
 
 
 # wide layout
-original_image = Image.open('E:\Liaison\OpenAI\Logo.jpg')
+original_image = Image.open('Logo.jpg')
 
 # Define the desired width and height for the resized image
 desired_width = 600
